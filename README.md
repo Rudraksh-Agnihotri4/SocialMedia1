@@ -1,7 +1,4 @@
-Live Link -->
-https://rudraksh-agnihotri4.github.io/SocialMedia1/
-
-📊 SocialMediaAnalyzer
+📊 SocialMediaContentAnalyzer
 
 An AI-powered tool to analyze social media content.
 
@@ -78,6 +75,10 @@ SocialMediaAnalyzer/
 │
 └── README.md
 ````
+
+
+Live Link -->
+https://rudraksh-agnihotri4.github.io/SocialMedia1/
 
 🧑‍💻 Author
 Rudraksh Agnihotri
